@@ -30,3 +30,7 @@ TBC
 * Stacked column chart: Estimated and identified homeless deaths, 2013-2017
 * Grouped bar chart: deaths per million population, by region, 2013 vs 2017
 * Grouped bar chart: average age at death, by gender, general population vs homeless people
+
+## Related repos
+
+* You can [find all stories tagged 'homelessness' that the BBC data units have been involved in here](https://github.com/search?q=topic%3Ahomelessness+org%3ABBC-Data-Unit&type=Repositories)
