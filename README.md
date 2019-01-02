@@ -10,7 +10,8 @@ The figure represented a rise of 24% over five years.
 
 ## Get the data
 
-TBC
+* ONS: [Deaths of homeless people in England and Wales: 2013 to 2017](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/deathsofhomelesspeopleinenglandandwales)
+  * [Cached XLS file (tables 1, 5 and 6 only)](https://github.com/BBC-Data-Unit/homeless-deaths/blob/master/deathswhilehomelessnesseandw2013to2017referencetablesTABLE1_5_6.xlsx)
 
 ## Quotes and interviews
 
